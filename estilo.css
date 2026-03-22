@@ -1,0 +1,37 @@
+html,
+body{
+    margin: 0;
+    padding: 0px;
+}
+
+header{
+    background-color: rgb(255, 230, 0);
+}
+
+#logotipo{
+    text-decoration: none;
+    margin-top: 0;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+}
+
+#txtbusca{
+    width: 344px;
+    height: 40px;
+    padding-left: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(170, 213, 226);
+}
+
+.navigation{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 0;
+    position: relative;
+}
+
+
